@@ -1,0 +1,114 @@
+body {
+    font-family: "Cairo Play";
+    font-size: 25pt;
+    font-weight: 700;
+    background-color: midnightblue;
+    color: plum;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Baloo 2";
+    font-size: 50pt;
+}
+
+h1 {
+    font-size: 80pt;
+}
+
+header {
+    text-align: center;
+}
+
+/* Hero Section */
+
+#hero, footer {
+    text-align: center;
+    border: 15px solid blanchedalmond;
+    background-color: coral;
+    padding: 30px;
+    color: midnightblue;
+}
+
+#hero img {
+    width: 300px;
+}
+
+/* Biography Section */
+
+#bio {
+    text-align: center;
+}
+
+/* Hobbies Section */
+
+#hobbies {
+    text-align: center;
+}
+
+#hobbies ul li:nth-child(even) {
+    color:antiquewhite;
+}
+
+#hobbies ul li:nth-child(even) {
+    color: coral;
+}
+
+/* Gallery */
+
+#gallery {
+    text-align: center;
+    border: 15px solid blanchedalmond;
+    background-color: coral;
+    padding: 30px;
+    color: midnightblue;
+    margin-bottom: 2rem;
+}
+
+#gallery figure {
+    text-align: center;
+    font-size: 25pt;
+}
+
+/* Literature */
+
+#lit {
+    text-align: center;
+    border: 2px antiquewhite;
+    margin-bottom: 2rem;
+    font-size: 15pt;
+}
+
+#lit div {
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+#lit div p {
+    padding: 0.3rem 0;
+}
+
+/* Dropcaps */
+
+#lit div p::first-letter {
+     color: plum;
+     float: left;
+     font-size: 3em;
+     padding: .25em;
+     margin-right: .25em;
+     line-height: .65;
+     border: 5px blanchedalmond;
+     font-family: "Cairo Play";
+}
+
+/* Video Section */
+
+#video {
+    text-align: center;
+    border: 15px solid blanchedalmond;
+    background-color: coral;
+    padding: 30px;
+    color: midnightblue;
+    margin-bottom: 2rem;
+    scale: auto;
+}
