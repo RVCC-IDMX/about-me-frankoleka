@@ -117,4 +117,46 @@ header {
 
 #formElements {
     display: grid;
+    row-gap: .5ems;
+}
+
+#contact {
+    padding: 1rem;
+    max-width: 600px;
+    margin: 2rem auto;
+}
+
+fieldset {
+    border: 5px solid blanchedalmond;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+legend {
+    background-color: blanchedalmond;
+    color: midnightblue;
+    padding: .5em;
+}
+
+#contact input, #contact textarea, #contact select, #contact button {
+    padding: .5em;
+    font-size: 1rem;
+}
+
+#contact ul {
+    list-style: none;
+    padding: 0px;
+}
+
+#contact li {
+    margin: 1rem;
+}
+
+#contact button {
+    background-color: coral;
+    color: midnightblue;
+    border: 3px solid plum;
+    max-width: 400px;
+    width: 70%;
+    justify-self: center;
 }
