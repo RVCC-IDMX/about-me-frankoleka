@@ -112,3 +112,9 @@ header {
     margin-bottom: 2rem;
     scale: auto;
 }
+
+/* Contact Form */
+
+#formElements {
+    display: grid;
+}
