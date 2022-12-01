@@ -15,6 +15,10 @@ h1 {
     font-size: 80pt;
 }
 
+h2 {
+    margin: .1em;
+}
+
 header {
     text-align: center;
 }
@@ -43,6 +47,9 @@ header {
 
 #hobbies {
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #hobbies ul li:nth-child(even) {
@@ -62,6 +69,9 @@ header {
     padding: 30px;
     color: midnightblue;
     margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #gallery figure {
@@ -159,4 +169,21 @@ legend {
     max-width: 400px;
     width: 70%;
     justify-self: center;
+}
+
+/* Tablet Size */
+
+@media screen and (min-width: 60em) {
+    figure {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+
+    figcaption {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2rem;
+        margin-left: 1rem;
+    }
 }
