@@ -1,11 +1,11 @@
 # About Me Project
 
-##Name:
+## Name:
 Hi, my name is Franko Leka
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b6c9a18d-34a5-446d-8885-8104fa258aea/deploy-status)](https://app.netlify.com/sites/about-me-frankoleka/deploys)
 
-##Description:
+## Description:
 Through the process of working on my About Me project I kept thinking about October and themes for halloween-like-aesthetic. I was really inspired to make a spooky looking theme, so even my litlpsum blog portion was about dracula and I enjoyed playing with that sort of theme. I dedicated my midterm to fully be Halloween themed and I also intended to give whomever took a look at the project a chuckle so they could be amused.
 Through out this course I learned a lot, including:
 - How to code using HTML, CSS, and even markup
@@ -15,7 +15,7 @@ Through out this course I learned a lot, including:
 - My favorite part, styled the entire site with colors and fonts and shaped it into my own creation with CSS
 - Lastly, learned a lot of important and interesting information about others that may have disabilities or imparments visually to colors or visiblity to screens and how to contrast colors to help folks in any scenario possible
 
-##Color Scheme:
+## Color Scheme:
 The color schemes I chose for this project were colors that I believed to look well as well as contrast nicely against the other. They were also chosen because I enjoy darker backgrounds, to be easy on the eyes so they screen was not as bright and I contrasted that darker background with brighter hues for fonts and borders. Some colors included are:
 - ff7f50 (coral) [fonts/borders]
 - 191970 (midnightblue) [background]
