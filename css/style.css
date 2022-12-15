@@ -103,6 +103,30 @@ header {
     clear: both;
 }
 
+
+.lit-links li {
+    list-style: none;
+    display: block;
+    padding: 0.5em 0;padding: 1rem;
+}
+
+.lit-links a {
+    color: blanchedalmond;
+    font-size: 1.5rem;
+    padding: 1rem 1.25rem;
+    letter-spacing: 2px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.lit-links a:hover,
+.lit-links a:focus {
+    filter: invert(1);
+    border-radius: 10px;
+    outline: none;
+}
+
+
 /* Dropcaps */
 
 #lit div p:first-child:first-letter {
