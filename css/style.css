@@ -234,6 +234,18 @@ legend {
     }
 }
 
+.footer-links a {
+    color: midnightblue;
+    text-decoration: none;
+}
+
+.footer-links a:hover,
+.footer-links a:focus {
+    filter: invert(1);
+    border-radius: 10px;
+    outline: none;
+}
+
 /* Large Screen Size */
 
 @media screen and (min-width: 100em) {

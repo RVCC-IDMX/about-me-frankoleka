@@ -25,3 +25,8 @@ The color schemes I chose for this project were colors that I believed to look w
 - 2f4f4f (darkslategrey) [background]
 - faebd7 (antiquewhite) [fonts]
 - dda0dd (plum) [fonts]
+
+## Citation:
+- https://css-tricks.com/css-sprites/
+- https://www.w3schools.com/css/css_image_sprites.asp
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS
